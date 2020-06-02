@@ -1,1 +1,4 @@
-This repogitory is planned to use 20200604, but isn't used. (-_-)
+This repogitory is planned to use for paper , but isn't used. (-_-)
+
+Paper:
+Automatic Detection of Stationary Fronts around Japan Using a Deep Convolutional Neural Network
